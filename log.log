@@ -1,0 +1,8 @@
+Nov 07, 2022 10:54:31 PM org.example.Main main
+INFO: This is a just a info message
+Nov 07, 2022 10:54:31 PM org.example.Main main
+[WARN] This is warning
+Nov 07, 2022 10:54:31 PM org.example.Main main
+[] This is a  error
+Nov 07, 2022 10:54:31 PM org.example.Main init
+INFO: This is another init
